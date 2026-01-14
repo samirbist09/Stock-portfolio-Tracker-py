@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+------------------------
+SYPANEL - Quantity: 12, Value: 18000
+SOLU - Quantity: 12, Value: 15840
+
+Total Investment: 33840
